@@ -1,0 +1,46 @@
+// Place all the styles related to the todo_items controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+	background-image: url(http://images.all-free-download.com/images/graphiclarge/green_leaf_background_05_hd_pictures_169227.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	/*background-color: red;*/
+	margin:	0px;
+}
+
+h1 {
+	display: block;
+	font-family: papyrus;
+    color: green;
+    left: 0px;
+    background: rgba(255, 255, 255, 0.7);
+    width: 100%;
+    padding-left: 0px;
+    padding: 17px;
+
+}
+
+table {
+	background: rgba(255, 255, 255, 0.7);
+	width: 100%;
+	padding-left: 10px;
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+}
+
+a:visited {
+    color: #666;
+}
+
+
+a {
+	padding-left: 18px;
+    font-color: #000;
+}
+
+
+
