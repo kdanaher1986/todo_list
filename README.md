@@ -1,24 +1,20 @@
-# README
+Synopsis
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ToDo list for practice developing apps on rails
 
-Things you may want to cover:
+Motivation
 
-* Ruby version
+Wyncode project homework
 
-* System dependencies
+Installation
 
-* Configuration
+Clone project and initiated through terminal when saved if your text editor
 
-* Database creation
+Tests
 
-* Database initialization
+After creating forms through scaffolding, I signed up as new user, created tasks and confirmed through the SQL the information was saved in the database
 
-* How to run the test suite
+Contributors
 
-* Services (job queues, cache servers, search engines, etc.)
+Personal
 
-* Deployment instructions
-
-* ...
